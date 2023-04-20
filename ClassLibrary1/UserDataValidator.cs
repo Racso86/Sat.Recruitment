@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Sat.Recruitment.Utils
+﻿namespace Sat.Recruitment.Utils
 {
     public static class UserDataValidator
     {
